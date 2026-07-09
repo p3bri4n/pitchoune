@@ -1,6 +1,6 @@
 # Pitchoune
 
-![Logo](logo.jpg)
+![Logo](logo.jpeg)
 
 A Python library on top of Polars to load & save (normal or streaming mode) data from files.
 Can also chat with LLM in local with Ollama or with OpenAI API.
